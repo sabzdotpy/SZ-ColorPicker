@@ -1,4 +1,4 @@
 # SZ-ColorPicker
 # Modern Color Picker/Convertor
-# Made by Sabz
+Made by Sabz
 https://github.com/sabzdotpy/
