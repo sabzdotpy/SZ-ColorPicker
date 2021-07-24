@@ -2,4 +2,4 @@
 # Modern Color Picker/Convertor
 Made by Sabz
 
-![Preview](preview.PNG)
+![Preview](tr.PNG)
