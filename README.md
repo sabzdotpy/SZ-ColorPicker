@@ -2,5 +2,5 @@
 # Modern Color Picker/Convertor
 Made by Sabz
 <p align="center">
-  <img src="preview.png" width="350" title="cool hover text">
+  <img src="https://github.com/sabzdotpy/SZ-ColorPicker/blob/main/preview.PNG" width="350" title="cool hover text">
 </p>
