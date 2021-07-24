@@ -2,4 +2,4 @@
 # Modern Color Picker/Convertor
 Made by Sabz
 
-![Preview](tr.PNG)
+![Preview](https://github.com/sabzdotpy/SZ-ColorPicker/blob/main/tr.png)
